@@ -1,4 +1,4 @@
-# CORE OS β
+# CORE OS
 CORE OS は、キーボード操作に特化した i3wm を搭載した Operating System です。  
 
 ## CORE OS について
