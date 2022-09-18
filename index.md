@@ -1,12 +1,11 @@
 # CORE OS β
-CORE OS へようこそ！  
-ミニマムで軽量を目指して開発されました。  
+CORE OS は、キーボード操作に特化した i3wm を搭載した Operating System です。  
 
 ## CORE OS について
 - BaseOS: Ubuntu 16.04
-- Desktop System: LXQT / i3wm  
-i3wm を使うことを想定して作りました。LXQTは最低限必要な要素以外消去してあります。  
-インストールが終了したらi3wmでご利用ください...  
+- Desktop System: i3wm  
+CORE OS の GUIインストーラー用に LXQT Desktop を導入しています。  
+LXQT Desktop は最低限必要な要素以外消去してありますので、インストールが終了したら i3wm に切り替えてご利用ください...
 - File Browser: pcmanfm
 
 
