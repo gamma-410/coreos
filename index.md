@@ -20,15 +20,6 @@ CORE OS へようこそ！
 - 解像度 : 1024×768 解像度
 
 
-## インストール方法
-- CORE_OS.iso をダウンロード & USB等に書き込み起動
-- インストーラーを起動
-  - menu を開く 
-    - WindowsPC なら <code>windows</code> + <code>d</code> 
-    - mac なら <code>command</code> + <code>d</code>
-  - ~ と入力して <code>Enter</code> を押す
-- インストーラーに沿って進める -> 完了したら再起動
-
 ## よく使うコマンド
 - Terminal を開く: <code>windows (command)</code> + <code>Enter</code>
 - File Browser を開く: <code>windows (command)</code> + <code>d</code> -> <code>「pcmanfm」</code>
