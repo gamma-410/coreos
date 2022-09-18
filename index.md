@@ -30,6 +30,6 @@ CORE OS へようこそ！
 - インストーラーに沿って進める -> 完了したら再起動
 
 ## よく使うコマンド
-- Terminal を開く: windows (command) + Enter
-- File Browser を開く: windows (command) + d -> 「pcmanfm」
-- Web Browser を開く: windows (command) + d -> 「firefox」
+- Terminal を開く: <code>windows (command)</code> + <code>Enter</code>
+- File Browser を開く: <code>windows (command)</code> + <code>d</code> -> <code>「pcmanfm」</code>
+- Web Browser を開く: <code>windows (command)</code> + <code>d</code> -> <code>「firefox」</code>
