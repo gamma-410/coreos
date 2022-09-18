@@ -3,7 +3,7 @@ CORE OS へようこそ！
 ミニマムで軽量を目指して開発されました。  
 
 ## CORE OS について
-- BaseOS: Upper Linux 18.04 LXDE 
+- BaseOS: Linux Mint 18
 - Desktop System: i3wm
 
 ## システム最小要件 
