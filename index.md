@@ -4,7 +4,8 @@ CORE OS へようこそ！
 
 ## CORE OS について
 - BaseOS: Ubuntu 16.04
-- Desktop System: LXQT / i3wm
+- Desktop System: LXQT / i3wm  
+(i3wm を使うことを想定して作りました。LXQTは最低限必要な要素以外消去してあります。)
 - File Browser: pcmanfm
 
 
