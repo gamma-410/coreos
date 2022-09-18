@@ -3,6 +3,7 @@ CORE OS へようこそ！
 ミニマムで軽量を目指して開発されました。  
 
 ## CORE OS について
+既に開発が終了し安定動作が確認されているをベースにしています。  
 - BaseOS: Ubuntu 16.04 安定版
 - Desktop System: i3wm
 
