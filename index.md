@@ -28,3 +28,8 @@ CORE OS へようこそ！
     - mac なら <code>command</code> + <code>d</code>
   - ~ と入力して <code>Enter</code> を押す
 - インストーラーに沿って進める -> 完了したら再起動
+
+## よく使うコマンド
+- Terminal を開く: windows (command) + Enter
+- File Browser を開く: windows (command) + d -> 「pcmanfm」
+- Web Browser を開く: windows (command) + d -> 「firefox」
