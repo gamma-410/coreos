@@ -24,3 +24,7 @@ LXQT Desktop は最低限必要な要素以外消去してありますので、�
 - Terminal を開く: <code>windows (command)</code> + <code>Enter</code>
 - File Browser を開く: <code>windows (command)</code> + <code>d</code> -> <code>「pcmanfm」</code>
 - Web Browser を開く: <code>windows (command)</code> + <code>d</code> -> <code>「firefox」</code>
+
+## バグ(?)について
+インストール後、最初の起動は必ずバグります...  
+もう一度再起動していただくことによって普通に利用可能な状態になるはずです。  
