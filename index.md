@@ -1,6 +1,6 @@
 # CORE OS
 キーボード操作特化の i3wm を搭載した Operating System  
-
+<a href="https://object.gamma410.win/core-os/COREOS.1/CORE_OS.iso">インストール (64bit)</a>
 ## About CORE OS
 - BaseOS: Ubuntu 16.04
 - Desktop System: i3wm  
