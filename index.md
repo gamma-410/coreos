@@ -16,3 +16,11 @@ CORE OS へようこそ！
 - インストール後すぐに最新のGo言語を使用可能
 - 最低限の .vimrc を含む
 - 便利なコマンドを搭載 (実装予定)
+
+## インストール方法
+- CORE_OS.iso をダウンロード & USB等に書き込み起動
+- インストーラーを起動
+  - WindowsPC なら <code>windowsKey</code> + <code>d</code> 
+  - mac なら <code>commandKey</code> + <code>d</code>
+- インストーラーに沿って進める -> インストールが完了したら再起動
+- ログインして準備は完了です。
