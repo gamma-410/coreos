@@ -1,5 +1,5 @@
 # CORE OS
-CORE OS は、キーボード操作に特化した i3wm を搭載した Operating System です。  
+キーボード操作に特化した i3wm を搭載した Operating System  
 
 ## About CORE OS
 - BaseOS: Ubuntu 16.04
