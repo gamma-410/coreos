@@ -3,7 +3,7 @@ CORE OS へようこそ！
 ミニマムで軽量を目指して開発されました。  
 
 ## CORE OS について
-- BaseOS: Linux Mint 18
+- BaseOS: Ubuntu 16.04 安定版
 - Desktop System: i3wm
 
 ## システム最小要件 
