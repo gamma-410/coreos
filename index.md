@@ -17,6 +17,6 @@ CORE OS 2 から搭載予定です。お楽しみに。
 PinguyBuilder がうまく動作しないので 18.04 をベースに作っていく方針です。
 - DesktopSystem: i3wm / GNOME  
 インストーラーが i3wm 単体だと正常に動作しなかったので GNOME を搭載しています。  
-- RemasteringTool: Pinguy Builder 5.2-1  
+- RemasteringTool: Pinguy Builder 5.1-8  
 複数ソフトウェアを使ってみて一番安定していた Pinguy Builder を採用しました。  
 
